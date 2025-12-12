@@ -1,4 +1,9 @@
+---
+title: Driving Test Slot Finder
+---
+
 A script to repetitively search for available driving practical test slots in Bristol (Avonmouth and Kingswood). To run the script:
+
  - Add [Tampermonkey](https://www.tampermonkey.net/) extension to the browser.
  - Copy the script over to the extension.
  - Log in to the [DVSA page for changing the driving practical test booking ](https://driverpracticaltest.dvsa.gov.uk/login).
