@@ -1,7 +1,3 @@
----
-title: Driving Test Slot Finder
----
-
 A script to repetitively search for available driving practical test slots in Bristol (Avonmouth and Kingswood). To run the script:
 
  - Add [Tampermonkey](https://www.tampermonkey.net/) extension to the browser.
